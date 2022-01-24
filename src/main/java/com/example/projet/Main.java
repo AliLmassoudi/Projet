@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class Main extends Application {
 
-    //Bruh wiwiwi
+    //Bruh wiwiwi wiwi
 
     @Override
     public void start(Stage stage) throws IOException {
