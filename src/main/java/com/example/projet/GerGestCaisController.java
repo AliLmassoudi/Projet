@@ -50,7 +50,7 @@ public class GerGestCaisController implements Initializable {
         Connection connectDB = connectNow.getConnection();
 
         String ProductViewQuery = "SELECT * FROM Test.Caissier;";
-
+        //Bruh
         try {
 
             Statement statement = connectDB.createStatement();
